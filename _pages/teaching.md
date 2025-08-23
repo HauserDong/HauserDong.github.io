@@ -17,6 +17,6 @@ author_profile: true
 | 00334030       | Engineering Innovation | Spring 2024      |
 | 00332250       | Theoretical Mechanics | Fall 2023      |
 | 00334030       | Engineering Innovation | Spring 2023      |
-|  -       | Drone Building from Scratch | Fall 2023      |
-|  -       | Drone Building from Scratch | Fall 2022      |
-|  -       | Drone Building from Scratch | Spring 2022      |
+|  -       | [Drone Building from Scratch](/courses/drone_building_from_scratch/) | Fall 2023      |
+|  -       | [Drone Building from Scratch](/courses/drone_building_from_scratch/) | Fall 2022      |
+|  -       | [Drone Building from Scratch](/courses/drone_building_from_scratch/) | Spring 2022      |
