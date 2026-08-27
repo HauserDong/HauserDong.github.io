@@ -5,12 +5,18 @@ excerpt: "Beyond Academia"
 author_profile: true
 ---
 
-> Academia is not the whole of my life --- what matters more is to live, to experience, to feel life in its fullness.
-> <span style="display: block; text-align: right;">------ Me
-
 
 # 🪄 Beyond Academia
 <div class="photo-grid">
+    <div class="photo-item">
+        <a href="/images/beyond_academia/hiking202608.JPG" target="_blank">
+            <img src="/images/beyond_academia/hiking202608.JPG" alt="Photo 1">
+        </a>
+        <div class="photo-caption">
+            <h4>Tre Cime di Lavaredo Hiking</h4>
+            <span class="photo-date">2026-08</span>    
+        </div>
+    </div>
     <div class="photo-item">
         <a href="/images/beyond_academia/drivingtour.JPG" target="_blank">
             <img src="/images/beyond_academia/drivingtour.JPG" alt="Photo 1">
@@ -26,7 +32,7 @@ author_profile: true
         </a>
         <div class="photo-caption">
             <h4>Sunset with My Loved One</h4>
-            <span class="photo-date">2025-08-17</span>    
+            <span class="photo-date">2025-08</span>    
         </div>
     </div>
     <div class="photo-item">
@@ -35,7 +41,7 @@ author_profile: true
         </a>
         <div class="photo-caption">
             <h4>Adopt Cute Eyelash Gecko</h4>
-            <span class="photo-date">2025-03-06</span>    
+            <span class="photo-date">2025-03</span>    
         </div>
     </div>
     <div class="photo-item">
@@ -44,7 +50,7 @@ author_profile: true
         </a>
         <div class="photo-caption">
             <h4>Leisure Time after IROS 2024</h4>
-            <span class="photo-date">2024-10-18</span>
+            <span class="photo-date">2024-10</span>
         </div>
     </div>
     <div class="photo-item">
@@ -53,7 +59,7 @@ author_profile: true
         </a>
         <div class="photo-caption">
             <h4>Experience Apple Vision Pro</h4>
-            <span class="photo-date">2024-02-25</span>    
+            <span class="photo-date">2024-02</span>    
         </div>
     </div>
     <div class="photo-item">
@@ -62,7 +68,7 @@ author_profile: true
         </a>
         <div class="photo-caption">
             <h4>GO! Beijing Guoan FC!</h4>
-            <span class="photo-date">2023-10-29</span>    
+            <span class="photo-date">2023-10</span>    
         </div>
     </div>
 </div>

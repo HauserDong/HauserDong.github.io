@@ -5,8 +5,6 @@ excerpt: "My Publications"
 author_profile: true
 ---
 
-> <em style="font-style: normal;">平时则放荡冶游，考试则熟读讲义，不问学问之有无，惟争分数之多寡；试验既终，书籍束之高阁，毫不过问，敷衍三四年，潦草塞责，文凭到手，即可借此活动于社会，岂非与求学初衷大相背驰乎？光阴虚度，学问毫无，是自误也。</em>
-> <span style="display: block; text-align: right;">------ <em style="font-style: normal;">蔡元培，就任北京大学校长之演说</em></span>
 
 # 📝 Publications
 
@@ -41,6 +39,35 @@ author_profile: true
   }
 </style>
 
+
+<div class="paper-item" style="display: flex; align-items: flex-start; margin-bottom: 20px;">
+  <!-- 左侧图片 -->
+  <div class="paper-image" style="flex: 0 0 24%; max-width: 24%; margin-right: 20px;">
+    <div class="badge">
+      RA-L 2026
+    </div>
+    <a href="/images/paper_cover/RAL2026.png" target="_blank">
+      <img src="/images/paper_cover/RAL2026.png" alt="Paper Cover" style="width: 100%; height: auto; border-radius: 8px;">
+    </a>
+  </div>
+  <!-- 右侧文字内容 -->
+  <div class="paper-content" style="flex: 1;">
+    <h3 class="paper-title" style="margin: 0 0 10px; color:rgb(18, 74, 134);">
+        Homotopy-Aware Corridor Generation without Predefined Reference Paths
+        <div class="abstract-tooltip">
+          <b><em>Abstract:</em></b> Generating safe corridors is essential for collision-free robotic motion planning, yet most existing methods rely on predefined reference paths, which bias corridor geometry and implicitly limit the homotopy classes that can be explored. We propose a reference-path-free corridor generation framework on graphs of convex sets (GCS) that constructs corridors directly as sequences of convex sets, allowing corridor structure to emerge from the free-space representation rather than from a guiding path. To reason about similarity among corridors, we extend visibility-based deformation from paths to convex-set sequences, enabling the fusion of topologically redundant corridors while preserving distinct alternatives. To overcome the limited adaptability of existing GCS methods based on static global decompositions, we further develop an adaptive multi-scale GCS, in which a sampling-based fine-scale graph supports localized updates and a visibility-based coarse-scale graph enables compact global exploration. The two levels maintain topological consistency, allowing incremental updates without full graph reconstruction under environmental uncertainty. Numerical experiments characterize GCS construction, corridor generation, homotopy-aware exploration, and local updates, showing efficient graph construction, stable trajectory-level performance, and shorter-duration homotopy-aware trajectories than existing baselines. Hardware experiments on ground and aerial robots, including deployment with onboard localization, further validate the framework under translated and previously unknown obstacles.
+        </div>
+    </h3>
+    <p style="margin: 0 0 5px;"> <u>Haoze Dong</u>, Minghan Li, Meng Guo, Zhongkui Li</p>
+    <div style="margin-top: 10px;">
+      <a href="https://ieeexplore.ieee.org/document/11652891" target="_blank" style="display: inline-block; padding: 2px 0px;  width: 60px; text-align: center; background-color:rgb(164, 37, 22); color: white; text-decoration: none; border-radius: 5px; margin-right: 10px;">PDF</a>
+      <a href="https://github.com/HauserDong/path-free-gcs-corridors" target="_blank" style="display: inline-block; padding: 2px 0px;  width: 60px; text-align: center; background-color:rgb(11, 11, 11); color: white; text-decoration: none; border-radius: 5px; margin-right: 10px;">Code</a>
+      <a href="https://youtu.be/6j3_F9xE-zM" target="_blank" style="display: inline-block; padding: 2px 0px;  width: 60px; text-align: center; background-color:rgb(216, 53, 61); color: white; text-decoration: none; border-radius: 5px;">Video</a>
+    </div>
+  </div>
+</div>
+
+
 <div class="paper-item" style="display: flex; align-items: flex-start; margin-bottom: 20px;">
   <!-- 左侧图片 -->
   <div class="paper-image" style="flex: 0 0 24%; max-width: 24%; margin-right: 20px;">
@@ -61,7 +88,7 @@ author_profile: true
     </h3>
     <p style="margin: 0 0 5px;"> <u>Haoze Dong</u>, Meng Guo, Chengyi He, Zhongkui Li</p>
     <div style="margin-top: 10px;">
-      <a href="https://arxiv.org/abs/2507.19860" target="_blank" style="display: inline-block; padding: 2px 0px;  width: 60px; text-align: center; background-color:rgb(164, 37, 22); color: white; text-decoration: none; border-radius: 5px; margin-right: 10px;">PDF</a>
+      <a href="https://ieeexplore.ieee.org/document/11246185" target="_blank" style="display: inline-block; padding: 2px 0px;  width: 60px; text-align: center; background-color:rgb(164, 37, 22); color: white; text-decoration: none; border-radius: 5px; margin-right: 10px;">PDF</a>
       <a href="https://github.com/HauserDong/HomoMPC" target="_blank" style="display: inline-block; padding: 2px 0px;  width: 60px; text-align: center; background-color:rgb(11, 11, 11); color: white; text-decoration: none; border-radius: 5px; margin-right: 10px;">Code</a>
       <a href="https://www.youtube.com/watch?v=9HCiO9QTpgw" target="_blank" style="display: inline-block; padding: 2px 0px;  width: 60px; text-align: center; background-color:rgb(216, 53, 61); color: white; text-decoration: none; border-radius: 5px;">Video</a>
     </div>
@@ -89,7 +116,7 @@ author_profile: true
     </h3>
     <p style="margin: 0 0 5px;"> Yuda Chen, <u>Haoze Dong</u>, Zhongkui Li</p>
     <div style="margin-top: 10px;">
-      <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10801393" target="_blank" style="display: inline-block; padding: 2px 0px;  width: 60px; text-align: center; background-color:rgb(164, 37, 22); color: white; text-decoration: none; border-radius: 5px; margin-right: 10px;">PDF</a>
+      <a href="https://ieeexplore.ieee.org/document/10801393" target="_blank" style="display: inline-block; padding: 2px 0px;  width: 60px; text-align: center; background-color:rgb(164, 37, 22); color: white; text-decoration: none; border-radius: 5px; margin-right: 10px;">PDF</a>
       <a href="https://github.com/CYDXYYJ/ASAP" target="_blank" style="display: inline-block; padding: 2px 0px;  width: 60px; text-align: center; background-color:rgb(11, 11, 11); color: white; text-decoration: none; border-radius: 5px; margin-right: 10px;">Code</a>
       <a href="https://youtu.be/au3fhqbySOE" target="_blank" style="display: inline-block; padding: 2px 0px;  width: 60px; text-align: center; background-color:rgb(216, 53, 61); color: white; text-decoration: none; border-radius: 5px;">Video</a>
     </div>

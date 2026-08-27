@@ -5,14 +5,12 @@ excerpt: "My Teaching Experience"
 author_profile: true
 ---
 
-> Life is more than a job; jobs are more than a paycheck; and a country is more than its wealth. Education is more than the acquisition of marketable skills.
-> <span style="display: block; text-align: right;">------ William Deresiewicz, <em>Excellent Sheep</em></span>
-
 # 🏫 Teaching
 ## Teaching Assistant Experience
 
 | Course Code | Course Name                | Semester       |
 |-------------|----------------------------|----------------|
+| -             | [Leyun Embodied · SparkEdu](https://mp.weixin.qq.com/s/HKEGI2E7SnjkNv1U58-ETQ) (PKU and RUC Station) | March--April 2026      |
 | 00334030       | Engineering Innovation | Spring 2025      |
 | 00334030       | Engineering Innovation | Spring 2024      |
 | 00332250       | Theoretical Mechanics | Fall 2023      |
